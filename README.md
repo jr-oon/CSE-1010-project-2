@@ -1,2 +1,4 @@
 # CSE-1010-project-2
-John Rooney 
+John Rooney - Group Lead
+Tyler Lawrence - Collaborator
+James Alstrup - Collaborator
