@@ -2,3 +2,4 @@
 John Rooney - Group Lead
 Tyler Lawrence - Collaborator
 James Alstrup - Collaborator
+Paulo Lopes - Collaborator
